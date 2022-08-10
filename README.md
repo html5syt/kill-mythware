@@ -32,4 +32,5 @@
   4. [去除控制 特色：可传输文件 *Time:22/8/10*](https://html5syt.github.io/kill-mythware/22-8-10可传输文件-去除控制.zip)
   5. [链接 无外部工具破解极域的40种方法-哔哩哔哩 *Time:22/8/10*](https://www.bilibili.com/video/BV1vS4y177xn)
   6. [外部下载链接 机房杀手（file bigger than 25 mb）*Time:22/8/10*](https://wwo.lanzouy.com/iXzkNynf3oj)
-  7. ---
+  7. [mycomputerclass *Time:22/8/10*](https://html5syt.github.io/kill-mythware/22-8-10mycomputerclass.exe)
+  8. ---
