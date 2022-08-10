@@ -3,7 +3,7 @@
 这里是极域杀手合集仓库 `Repository` 
 [GitHub仓库地址](https://github.com/html5syt/kill-mythware)
 
-**You can**
+**You can:**
 
   1. 白嫖
   2. 随意传播 *包括"共享文件夹"😁*
