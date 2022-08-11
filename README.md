@@ -34,7 +34,8 @@
   5. [链接 无外部工具破解极域的40种方法-哔哩哔哩 *Time:22/8/10*](https://www.bilibili.com/video/BV1vS4y177xn)
   6. [外部下载链接 机房杀手（file bigger than 25 mb）*Time:22/8/10*](https://wwo.lanzouy.com/iXzkNynf3oj)
   7. [mycomputerclass *Time:22/8/10*](https://html5syt.github.io/kill-mythware/22-8-10mycomputerclass.exe)
-  8. ---
+  8. [*高级工具* 灰鸽子（危险！）建议用7z解压，禁用winRAR *Time:22/8/11*](https://html5syt.github.io/kill-mythware/22-8-11高级工具灰鸽子（危！）密码163.com.zip)
+  9. ---
 
 # Tips
   1. 端口号一般为4605/4705
