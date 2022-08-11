@@ -26,7 +26,7 @@
 ***若链接或工具失效可用邮箱反馈***
 - - -
 
-# 文件目录（点击下载或访问）
+# 资源目录（点击下载或访问）
   1. [无名 特色：可窗口化“保持安静” *Time:22/8/9*](https://html5syt.github.io/kill-mythware/22-8-9可窗口化安静.zip)
   2. [unmythware 特色：功能多 *Time:22/8/9*](https://html5syt.github.io/kill-mythware/22-8-9功能多unmythware.zip)
   3. [无名 特色：可关闭他人极域 *Time:22/8/9*](https://html5syt.github.io/kill-mythware/22-8-9-可关闭他人极域.exe)
