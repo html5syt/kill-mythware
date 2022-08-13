@@ -1,7 +1,10 @@
 # 极域杀手合集 
 #### *by Tim史宇涛(html5syt@163.com）*
 这里是极域杀手合集仓库 `Repository` 
+
 [GitHub仓库地址](https://github.com/html5syt/kill-mythware)
+
+[主站地址](https://html5syt.github.io)
 
 **You can:**
 
